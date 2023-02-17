@@ -3,7 +3,7 @@
 
 <h3> A Software Engineer in Nigeria </h3>
 
-- 🔭 I’m a handsome software engineer(offchain /onchain), tester, GIS specialist, and analyst with over 5+ years experience. A result-oriented, friendly and enthusiastic individual with a genuine interest in people and technologies
+- 🔭 I’m a handsome software engineer(offchain /onchain), tester, GIS specialist, and analyst with 10+ years experience. A result-oriented, friendly and enthusiastic individual with a genuine interest in people and technologies
 - 🌱 I am a motivator to team member and confident in my abilities to produce and while I prepare for the worst, I do the work necessary to tilt the odds that the best will happen and always willing to learn new technologies
 
 
