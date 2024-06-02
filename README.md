@@ -3,8 +3,8 @@
 
 <h3> A Software Engineer in Nigeria </h3>
 
-- 🔭 I’m a handsome software engineer(offchain /onchain), tester, GIS specialist, and analyst with 10+ years experience. A result-oriented, friendly and enthusiastic individual with a genuine interest in people and technologies
-- 🌱 I am a motivator to team member and confident in my abilities to produce and while I prepare for the worst, I do the work necessary to tilt the odds that the best will happen and always willing to learn new technologies
+- 🔭 I'm a seasoned software engineer with over a decade of experience in both off-chain and on-chain development, specializing in blockchain and AI technologies. I am a results-oriented, friendly, and enthusiastic professional with a deep passion for people and technology.
+- 🌱 I motivate my team members and am confident in my ability to deliver results. While I prepare for the worst, I put in the work necessary to increase the chances of the best outcomes. I am always eager to learn new technologies and enhance my skills.
 
 
 - 💬 Ask me about ...
